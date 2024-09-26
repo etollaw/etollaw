@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eldad Tolla</h1>
-<h3 align="center">I'm a CS and Math major with minors in Data Science and Engineering at Randolph College. Originally from Ethiopia, I have a strong passion for exploring the intersection of Machine Learning, Artificial Intelligence, and other cutting-edge technologies. My projects often reflect my curiosity and dedication to turning complex problems into innovative solutions. I'm building voice-controlled systems and diving into data-driven research, I love pushing the boundaries of what's possible.</h3>
+<h3 align="center">I'm a CS and Math major with a minor in Data Science and a minor in Engineering at Randolph College. Originally from Ethiopia, I have a strong passion for exploring the intersection of Machine Learning, Artificial Intelligence, and other cutting-edge technologies. My projects often reflect my curiosity and dedication to turning complex problems into innovative solutions. I'm building voice-controlled systems and diving into data-driven research, I love pushing the boundaries of what's possible.</h3>
 
 - 🔭 I’m currently working on **Voice Aid AI-Powered Speech Recognition for Assistive Technology**
 
