@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eldad Tolla</h1>
 <h3 align="center">
-I'm a Computer Science and Mathematics major at <a href="https://www.columbia.edu/" target="_blank">Columbia University</a> (SEAS), passionate about building intelligent systems that bridge AI, data, and human creativity.  
+I'm a Computer Science major at <a href="https://www.columbia.edu/" target="_blank">Columbia University</a> (SEAS), passionate about building intelligent systems that bridge AI, data, and human creativity.  
 I enjoy exploring Reinforcement Learning, High-Performance Computing, and real-world AI applications—from pathfinding research in Pac-Man to accessibility-focused tools like Voice Aid.  
 </h3>
 
