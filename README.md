@@ -1,17 +1,30 @@
 <h1 align="center">Hi 👋, I'm Eldad Tolla</h1>
-<h3 align="center">I'm a CS and Math major with a minor in Data Science and a minor in Engineering at Randolph College. I have a strong passion for exploring the intersection of Machine Learning, Artificial Intelligence, and other cutting-edge technologies. My projects often reflect my curiosity and dedication to turning complex problems into innovative solutions. I'm building voice-controlled systems and diving into data-driven research, I love pushing the boundaries of what's possible.</h3>
+<h3 align="center">
+I'm a Computer Science and Mathematics major at <a href="https://www.columbia.edu/" target="_blank">Columbia University</a> (SEAS), passionate about building intelligent systems that bridge AI, data, and human creativity.  
+I enjoy exploring Reinforcement Learning, High-Performance Computing, and real-world AI applications—from pathfinding research in Pac-Man to accessibility-focused tools like Voice Aid.  
+</h3>
 
-- 🔭 I’m currently working on **Voice Aid AI-Powered Speech Recognition for Assistive Technology**
-
-- 🌱 I’m currently learning **more about Machine learning and AI**
-
-- 👯 I’m looking to collaborate on **Personalized Study Plan Generator**
-
-- 📫 How to reach me **etolla@randolphcollege.edu**
+- 🔭 I’m currently working on **integrating Q-Learning with Pathfinding for adaptive agents (UT Austin REU)**  
+- 🌱 I’m learning more about **Machine Learning, Reinforcement Learning, and Data Systems**  
+- 👯 I’m open to collaborating on **AI-powered education tools and language-learning projects**  
+- 📫 Reach me at **etollaw@columbia.edu**  
+- 🌐 Portfolio: [etollaw.github.io/personal-website](https://etollaw.github.io/personal-website/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/eldadtolla/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
+<a href="https://github.com/etollaw" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+</p>
