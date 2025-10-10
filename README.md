@@ -7,12 +7,12 @@ I enjoy exploring Reinforcement Learning, High-Performance Computing, and real-w
 - 🔭 I’m currently working on **integrating Q-Learning with Pathfinding for adaptive agents (UT Austin REU)**  
 - 🌱 I’m learning more about **Machine Learning, Reinforcement Learning, and Data Systems**  
 - 👯 I’m open to collaborating on **AI-powered education tools and language-learning projects**  
-- 📫 Reach me at **etollaw@columbia.edu**  
+- 📫 Reach me at **ewt2121@columbia.edu**  
 - 🌐 Portfolio: [etollaw.github.io/personal-website](https://etollaw.github.io/personal-website/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/eldadtolla/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/eldad-tolla-441166219" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
 <a href="https://github.com/etollaw" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
 </p>
 
